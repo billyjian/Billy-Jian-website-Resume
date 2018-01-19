@@ -6,10 +6,25 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		35E7A0CA20119522009C52B5 /* resume.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = resume.html; sourceTree = "<group>"; };
+		35E7A0CD20119867009C52B5 /* bootstrap.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = bootstrap.css; path = css/bootstrap.css; sourceTree = "<group>"; };
+		35E7A0CE20119867009C52B5 /* font-awesome.min.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = "font-awesome.min.css"; path = "css/font-awesome.min.css"; sourceTree = "<group>"; };
+		35E7A0CF20119867009C52B5 /* main.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = main.css; path = css/main.css; sourceTree = "<group>"; };
+		35E7A0D020119876009C52B5 /* bootstrap.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = bootstrap.js; path = js/bootstrap.js; sourceTree = "<group>"; };
+		35E7A0D120119876009C52B5 /* jquery.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = jquery.min.js; path = js/jquery.min.js; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		35E7A0C3201194DA009C52B5 = {
 			isa = PBXGroup;
 			children = (
+				35E7A0D020119876009C52B5 /* bootstrap.js */,
+				35E7A0D120119876009C52B5 /* jquery.min.js */,
+				35E7A0CD20119867009C52B5 /* bootstrap.css */,
+				35E7A0CE20119867009C52B5 /* font-awesome.min.css */,
+				35E7A0CF20119867009C52B5 /* main.css */,
+				35E7A0CA20119522009C52B5 /* resume.html */,
 			);
 			sourceTree = "<group>";
 		};
